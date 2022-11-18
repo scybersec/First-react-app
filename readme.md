@@ -1,4 +1,4 @@
-# Three.js Journey
+# First-React-App
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
